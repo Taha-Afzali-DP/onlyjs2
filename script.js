@@ -11,3 +11,6 @@ const register = (user) => {
 const getMe = (token) => {
   return user;
 };
+function testCode(){
+  return true;
+}
