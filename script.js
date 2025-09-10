@@ -11,3 +11,5 @@ const register = (user) => {
 const getMe = (token) => {
   return user;
 };
+const test = () => false;
+//Auth
