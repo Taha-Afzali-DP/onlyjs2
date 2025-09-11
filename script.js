@@ -13,6 +13,9 @@ const getMe = (token) => {
 };
 
 const test = () => false;
-//Auth
 
-
+const addCourse = (cuorse) => {
+  return {
+    massage: "New Cuorse added Successfully :))",
+  };
+};
